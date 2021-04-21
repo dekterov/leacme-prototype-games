@@ -1,0 +1,12 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/NCart.fntx:9629:application/unknown
+b:fonts/NCart.ttf:85828:application/unknown
+b:scenes/HUD.bdx:57730:application/unknown
+b:scenes/Scene.bdx:1187183:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/ground-tile.jpg:187051:image/jpeg
+i:textures/sky-bg2.jpg:280982:image/jpeg
+i:textures/wood.jpg:208459:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_NCart.png:340320:image/png

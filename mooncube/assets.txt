@@ -1,0 +1,9 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/bubblsoft.fntx:21337:application/unknown
+b:fonts/bubblsoft.ttf:55800:application/unknown
+b:scenes/Scene.bdx:151839:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/sky-high.jpg:124276:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_bubblsoft.png:443257:image/png
