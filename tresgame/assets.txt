@@ -1,0 +1,9 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/d7mono.fntx:12122:application/unknown
+b:fonts/d7mono.ttf:22984:application/unknown
+b:fonts/kunstler.fntx:24479:application/unknown
+b:fonts/kunstler.ttf:63392:application/unknown
+b:scenes/Scene.bdx:305396:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/__FNT_d7mono.png:14417:image/png
+i:textures/__FNT_kunstler.png:778489:image/png
