@@ -1,0 +1,9 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/AJC.fntx:24710:application/unknown
+b:fonts/AJC.ttf:78296:application/unknown
+b:fonts/bfont.fntx:23258:application/unknown
+b:scenes/Scene.bdx:1962561:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/cakeBg.jpg:75906:image/jpeg
+i:textures/__FNT_AJC.png:1042441:image/png
+i:textures/__FNT_bfont.png:44106:image/png

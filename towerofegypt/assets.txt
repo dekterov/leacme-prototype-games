@@ -1,0 +1,12 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/axt.fntx:11925:application/unknown
+b:fonts/axt.ttf:47904:application/unknown
+b:fonts/bfont.fntx:23258:application/unknown
+b:scenes/Scene.bdx:962683:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/flame.png:2125:image/png
+i:textures/metal-ttr.jpg:23035:image/jpeg
+i:textures/SliceSide.png:14769:image/png
+i:textures/wall-bg.jpg:267275:image/jpeg
+i:textures/__FNT_axt.png:290899:image/png
+i:textures/__FNT_bfont.png:44106:image/png

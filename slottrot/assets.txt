@@ -1,0 +1,16 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/CasQuee.fntx:9141:application/unknown
+b:fonts/CasQuee.ttf:98484:application/unknown
+b:scenes/Scene.bdx:1031549:application/unknown
+i:textures/bar.png:2046:image/png
+i:textures/barbar.png:3092:image/png
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/casBg.jpg:238087:image/jpeg
+i:textures/club.png:16505:image/png
+i:textures/diamond.png:13775:image/png
+i:textures/heart.png:12770:image/png
+i:textures/metal.png:428553:image/png
+i:textures/spade.png:15207:image/png
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_CasQuee.png:246376:image/png

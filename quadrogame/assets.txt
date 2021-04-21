@@ -1,0 +1,9 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/NeOutTitle.fntx:24016:application/unknown
+b:fonts/NeOutTitle.ttf:88788:application/unknown
+b:scenes/Scene.bdx:971790:application/unknown
+i:textures/bg-col.jpg:82353:image/jpeg
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_NeOutTitle.png:327749:image/png
