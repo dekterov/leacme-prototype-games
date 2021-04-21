@@ -1,0 +1,16 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/Bons1.fntx:12464:application/unknown
+b:fonts/Bons1.ttf:76360:application/unknown
+b:fonts/Bons2.fntx:12464:application/unknown
+b:fonts/Bons2.ttf:76360:application/unknown
+b:scenes/Scene.bdx:1731771:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/dice-x.png:3298:image/png
+i:textures/dice-x2.png:3321:image/png
+i:textures/lava.png:150123:image/png
+i:textures/skull-front.jpg:171126:image/jpeg
+i:textures/stone-tile.png:106703:image/png
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_Bons1.png:576880:image/png
+i:textures/__FNT_Bons2.png:515566:image/png

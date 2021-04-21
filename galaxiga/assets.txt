@@ -1,0 +1,9 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/puzGame2.fntx:10631:application/unknown
+b:fonts/puzGame2.ttf:18040:application/unknown
+b:scenes/Scene.bdx:1451382:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/star-bg.jpg:196994:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_puzGame2.png:28225:image/png
