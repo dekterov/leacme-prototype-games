@@ -1,0 +1,11 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/zadb.fntx:12890:application/unknown
+b:fonts/zadb.ttf:43356:application/unknown
+b:scenes/Scene.bdx:1229029:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/grassTtr.jpg:30937:image/jpeg
+i:textures/Lines1.jpg:28734:image/jpeg
+i:textures/waterTile.jpg:23349:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_zadb.png:48235:image/png

@@ -1,0 +1,14 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/bubFont.fntx:24117:application/unknown
+b:fonts/bubFont.ttf:60248:application/unknown
+b:scenes/Scene.bdx:1368235:application/unknown
+i:textures/ball-blue.png:24494:image/png
+i:textures/ball-green.png:24977:image/png
+i:textures/ball-red.png:24804:image/png
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/BubblesBg.jpg:320990:image/jpeg
+i:textures/frame1.png:154290:image/png
+i:textures/wall-bg.jpg:99710:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_bubFont.png:448545:image/png

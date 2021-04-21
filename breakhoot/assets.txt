@@ -1,0 +1,10 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/Bark1.fntx:7292:application/unknown
+b:fonts/Bark1.ttf:54404:application/unknown
+b:fonts/bfont.fntx:23258:application/unknown
+b:scenes/Scene.bdx:1269316:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/clouds.png:43522:image/png
+i:textures/tre1.png:80236:image/png
+i:textures/__FNT_Bark1.png:685079:image/png
+i:textures/__FNT_bfont.png:44106:image/png
