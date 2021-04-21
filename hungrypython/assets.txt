@@ -1,0 +1,14 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/britbold.fntx:23905:application/unknown
+b:fonts/britbold.ttf:40728:application/unknown
+b:fonts/d7mono.fntx:12122:application/unknown
+b:fonts/d7mono.ttf:22984:application/unknown
+b:scenes/Scene.bdx:572748:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/grass1tile.png:95232:image/png
+i:textures/grass2tile.png:101282:image/png
+i:textures/python1tile.png:22039:image/png
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_britbold.png:458174:image/png
+i:textures/__FNT_d7mono.png:14417:image/png

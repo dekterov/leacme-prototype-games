@@ -1,0 +1,12 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/spedblt.fntx:12587:application/unknown
+b:fonts/spedblt.ttf:24288:application/unknown
+b:scenes/HUD.bdx:60741:application/unknown
+b:scenes/Scene.bdx:1058553:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/checkflag.jpg:14656:image/jpeg
+i:textures/ground-tile.jpg:187051:image/jpeg
+i:textures/hedge.jpg:76212:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_spedblt.png:286853:image/png
