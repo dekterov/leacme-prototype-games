@@ -1,0 +1,10 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/mgf.fntx:22167:application/unknown
+b:fonts/mgf.ttf:95284:application/unknown
+b:scenes/Scene.bdx:596310:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/granite-bg.jpg:61134:image/jpeg
+i:textures/heating-element.jpg:36484:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_mgf.png:898204:image/png

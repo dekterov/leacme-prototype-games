@@ -1,0 +1,17 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/fs99.fntx:10633:application/unknown
+b:fonts/fs99.ttf:10768:application/unknown
+b:scenes/Scene.bdx:1581046:application/unknown
+i:textures/AppleTtr.png:3140:image/png
+i:textures/bg.png:166191:image/png
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/CherryTtr.png:3436:image/png
+i:textures/PieFull.png:6803:image/png
+i:textures/PieHalfOpen.png:6361:image/png
+i:textures/PieOpen.png:5606:image/png
+i:textures/TeethCLosedTtr.png:4736:image/png
+i:textures/TeethHalfOpenTtr.png:5083:image/png
+i:textures/TeethOpenTtr.png:5482:image/png
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_fs99.png:343789:image/png
