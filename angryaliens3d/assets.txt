@@ -1,0 +1,11 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/Afn.fntx:12499:application/unknown
+b:fonts/Afn.ttf:18816:application/unknown
+b:fonts/bfont.fntx:23258:application/unknown
+b:scenes/Scene.bdx:2371491:application/unknown
+i:textures/block1.jpg:24931:image/jpeg
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/floor-tile.png:235:image/png
+i:textures/mntTiled.jpg:121819:image/jpeg
+i:textures/__FNT_Afn.png:340850:image/png
+i:textures/__FNT_bfont.png:44106:image/png

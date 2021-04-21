@@ -1,0 +1,12 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/dsTerm-red.fntx:12092:application/unknown
+b:fonts/dsTerm-red.ttf:33212:application/unknown
+b:fonts/dsTerm.fntx:12088:application/unknown
+b:fonts/dsTerm.ttf:33212:application/unknown
+b:scenes/Scene.bdx:1115047:application/unknown
+i:textures/bin-bg.jpg:104250:image/jpeg
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_dsTerm-red.png:35886:image/png
+i:textures/__FNT_dsTerm.png:35886:image/png

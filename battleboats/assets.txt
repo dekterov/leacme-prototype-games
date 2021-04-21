@@ -1,0 +1,17 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/d7.fntx:12125:application/unknown
+b:fonts/d7.ttf:23344:application/unknown
+b:fonts/d7mono.fntx:12143:application/unknown
+b:fonts/d7mono.ttf:22984:application/unknown
+b:fonts/d7mono2.fntx:12143:application/unknown
+b:fonts/d7mono2.ttf:22984:application/unknown
+b:scenes/HUD.bdx:16344:application/unknown
+b:scenes/Scene.bdx:2198768:application/unknown
+i:textures/aqua.png:69730:image/png
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/__FNT_d7.png:65892:image/png
+i:textures/__FNT_d7mono.png:19272:image/png
+i:textures/__FNT_d7mono2.png:66275:image/png
+i:textures/__FNT_d7mono_0.png:25079:image/png
+i:textures/__FNT_d7mono_1.png:6611:image/png

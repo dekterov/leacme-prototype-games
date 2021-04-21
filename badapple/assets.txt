@@ -1,0 +1,9 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/Abb.fntx:24229:application/unknown
+b:fonts/Abb.ttf:60716:application/unknown
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/inAppl.ttf:30424:application/unknown
+b:scenes/Scene.bdx:2083923:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/__FNT_Abb.png:362870:image/png
+i:textures/__FNT_bfont.png:44106:image/png
