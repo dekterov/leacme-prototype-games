@@ -1,0 +1,8 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/houseF.fntx:20121:application/unknown
+b:fonts/houseF.ttf:31792:application/unknown
+b:scenes/Scene.bdx:1671492:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_houseF.png:566020:image/png

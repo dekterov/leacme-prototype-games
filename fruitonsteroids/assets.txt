@@ -1,0 +1,14 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/Bake.fntx:7775:application/unknown
+b:fonts/Bake.ttf:5592:application/unknown
+b:fonts/bfont.fntx:23258:application/unknown
+b:scenes/Scene.bdx:766241:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/ExhaustParticle.png:9392:image/png
+i:textures/fruitBg.jpg:282671:image/jpeg
+i:textures/melonCoreTtr.jpg:4515:image/jpeg
+i:textures/melonPulpTtr.jpg:3571:image/jpeg
+i:textures/melonTtr.jpg:100198:image/jpeg
+i:textures/tstarTtr.png:2018:image/png
+i:textures/__FNT_Bake.png:183974:image/png
+i:textures/__FNT_bfont.png:44106:image/png

@@ -1,0 +1,11 @@
+a:audio/drop.mp3:12160:audio/mpeg
+b:fonts/bfont.fntx:23258:application/unknown
+b:fonts/persali.fntx:12491:application/unknown
+b:fonts/persali.ttf:26740:application/unknown
+b:scenes/Scene.bdx:1351040:application/unknown
+i:textures/brick.jpg:19498:image/jpeg
+i:textures/skybox1.jpg:957137:image/jpeg
+i:textures/stone1.jpg:34542:image/jpeg
+i:textures/windows-tiled.jpg:132172:image/jpeg
+i:textures/__FNT_bfont.png:44106:image/png
+i:textures/__FNT_persali.png:246018:image/png
